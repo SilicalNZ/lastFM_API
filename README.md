@@ -5,7 +5,7 @@ Feature important queries to the lastfm api, translating the responses to python
 ## Installing
 
 ```
-python3 -m pip install -U git+https://gitlab.com/midnight-society/lastfm
+python3 -m pip install -U git+https://github.com/SilicalNZ/lastFM_API
 ```
 
 ## Requirements
